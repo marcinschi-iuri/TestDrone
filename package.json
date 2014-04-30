@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/egorovpavel/pool",
   "dependencies": {
-    "dnode": "^1.2.0"
+    "dnode": "1.2.0"
   },
   "devDependencies": {
-    "mocha": "^1.18.2",
-    "should": "^3.2.0-beta1"
+    "mocha": "1.18.2",
+    "should": "3.2.0-beta1"
   }
 }
